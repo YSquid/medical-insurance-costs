@@ -9,4 +9,5 @@
 
 2. Breakdowns
 
-- Above measures broken down by sex, and region
+- Above measures broken down by sex
+- Figure out the difference in average cost between smokers and non-smokers
